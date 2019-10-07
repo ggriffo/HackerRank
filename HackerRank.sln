@@ -1,11 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.329
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday-Chocolate-Problem", "Birthday-Chocolate-Problem\Birthday-Chocolate-Problem.csproj", "{DF4EAA5D-8BEA-4891-A21F-96F7CD43F6FE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisible-Sum-Pairs", "Divisible-Sum-Pairs\Divisible-Sum-Pairs.csproj", "{C57A0C94-36AE-49F7-B53E-A2C2D0556B70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migratory Birds", "Migratory Birds\Migratory Birds.csproj", "{EB64FF45-6165-426E-B3B6-DF84424439CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day of the Programmer", "Day of the Programmer\Day of the Programmer.csproj", "{D1E45958-4053-407E-8CCF-0DB76F738305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo", "Kangaroo\Kangaroo.csproj", "{F2C093AF-7BF6-4290-8421-659E8360F981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Time in Words", "The Time in Words\The Time in Words.csproj", "{E50B36CC-42AC-4907-B4D1-58A30F500966}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{C57A0C94-36AE-49F7-B53E-A2C2D0556B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C57A0C94-36AE-49F7-B53E-A2C2D0556B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C57A0C94-36AE-49F7-B53E-A2C2D0556B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB64FF45-6165-426E-B3B6-DF84424439CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB64FF45-6165-426E-B3B6-DF84424439CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB64FF45-6165-426E-B3B6-DF84424439CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB64FF45-6165-426E-B3B6-DF84424439CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E45958-4053-407E-8CCF-0DB76F738305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E45958-4053-407E-8CCF-0DB76F738305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E45958-4053-407E-8CCF-0DB76F738305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E45958-4053-407E-8CCF-0DB76F738305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C093AF-7BF6-4290-8421-659E8360F981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C093AF-7BF6-4290-8421-659E8360F981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C093AF-7BF6-4290-8421-659E8360F981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C093AF-7BF6-4290-8421-659E8360F981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E50B36CC-42AC-4907-B4D1-58A30F500966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50B36CC-42AC-4907-B4D1-58A30F500966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50B36CC-42AC-4907-B4D1-58A30F500966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50B36CC-42AC-4907-B4D1-58A30F500966}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
