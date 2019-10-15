@@ -15,17 +15,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kangaroo", "Kangaroo\Kangar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Time in Words", "The Time in Words\The Time in Words.csproj", "{E50B36CC-42AC-4907-B4D1-58A30F500966}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electronics Shop", "Electronics Shop\Electronics Shop.csproj", "{52305A68-F5B2-4F1D-92CF-872C5F0ED5E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Electronics Shop", "Electronics Shop\Electronics Shop.csproj", "{52305A68-F5B2-4F1D-92CF-872C5F0ED5E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix Layer Rotation", "Matrix Layer Rotation\Matrix Layer Rotation.csproj", "{B486DDF3-A09B-4E73-8E5E-07C3710C9D44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrix Layer Rotation", "Matrix Layer Rotation\Matrix Layer Rotation.csproj", "{B486DDF3-A09B-4E73-8E5E-07C3710C9D44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cats and a Mouse", "Cats and a Mouse\Cats and a Mouse.csproj", "{653E0FEC-8049-452F-8F17-A14828474D48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cats and a Mouse", "Cats and a Mouse\Cats and a Mouse.csproj", "{653E0FEC-8049-452F-8F17-A14828474D48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Digits", "Find Digits\Find Digits.csproj", "{53936D45-D02E-4D16-A38C-5B79724EEF65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Digits", "Find Digits\Find Digits.csproj", "{53936D45-D02E-4D16-A38C-5B79724EEF65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Sort 1", "Counting Sort 1\Counting Sort 1.csproj", "{408F3C10-6B61-49F1-A7C7-E39C16EF54CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Counting Sort 1", "Counting Sort 1\Counting Sort 1.csproj", "{408F3C10-6B61-49F1-A7C7-E39C16EF54CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Sort 2", "Counting Sort 2\Counting Sort 2.csproj", "{06B7EFFE-E209-4E6C-B4DD-3BB067F56EE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the Median", "Find the Median\Find the Median.csproj", "{97CE0A29-8AA9-4BFD-A406-471F7FC7A5C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time Complexity Primality", "Time Complexity Primality\Time Complexity Primality.csproj", "{8BDD2157-9937-4494-8A14-ED94115A7E4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Python", "Python", "{733D346C-1269-4F76-8285-B9FAAA1EB60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Valleys", "Counting Valleys\Counting Valleys.csproj", "{4AAFA70B-A855-4C8E-9A34-9465D42302B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,10 +83,18 @@ Global
 		{408F3C10-6B61-49F1-A7C7-E39C16EF54CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{408F3C10-6B61-49F1-A7C7-E39C16EF54CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{408F3C10-6B61-49F1-A7C7-E39C16EF54CF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{06B7EFFE-E209-4E6C-B4DD-3BB067F56EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{06B7EFFE-E209-4E6C-B4DD-3BB067F56EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{06B7EFFE-E209-4E6C-B4DD-3BB067F56EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{06B7EFFE-E209-4E6C-B4DD-3BB067F56EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97CE0A29-8AA9-4BFD-A406-471F7FC7A5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CE0A29-8AA9-4BFD-A406-471F7FC7A5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CE0A29-8AA9-4BFD-A406-471F7FC7A5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CE0A29-8AA9-4BFD-A406-471F7FC7A5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BDD2157-9937-4494-8A14-ED94115A7E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDD2157-9937-4494-8A14-ED94115A7E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDD2157-9937-4494-8A14-ED94115A7E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDD2157-9937-4494-8A14-ED94115A7E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AAFA70B-A855-4C8E-9A34-9465D42302B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAFA70B-A855-4C8E-9A34-9465D42302B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAFA70B-A855-4C8E-9A34-9465D42302B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAFA70B-A855-4C8E-9A34-9465D42302B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
