@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Counting Valleys", "Countin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddNumbers", "OddNumbers\OddNumbers.csproj", "{DA35EC83-95E4-4D8F-85BD-F2A8EC19D76A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Davis Staircase", "Davis Staircase\Davis Staircase.csproj", "{260CFBCA-1E80-40DF-A409-72CDB7342BAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{DA35EC83-95E4-4D8F-85BD-F2A8EC19D76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA35EC83-95E4-4D8F-85BD-F2A8EC19D76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA35EC83-95E4-4D8F-85BD-F2A8EC19D76A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{260CFBCA-1E80-40DF-A409-72CDB7342BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260CFBCA-1E80-40DF-A409-72CDB7342BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260CFBCA-1E80-40DF-A409-72CDB7342BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260CFBCA-1E80-40DF-A409-72CDB7342BAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
