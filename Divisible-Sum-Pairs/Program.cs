@@ -27,15 +27,14 @@ namespace Divisible_Sum_Pairs
 
         static void Main(string[] args)
         {
-
             string[] nk = Console.ReadLine().Split(' ');
 
             int n = Convert.ToInt32(nk[0]);
 
             int k = Convert.ToInt32(nk[1]);
 
-            int[] ar = Array.ConvertAll(Console.ReadLine().Split(' '), arTemp => Convert.ToInt32(arTemp))
-            ;
+            int[] ar = Array.ConvertAll(Console.ReadLine().Split(' '), arTemp => Convert.ToInt32(arTemp));
+
             int result = divisibleSumPairs(n, k, ar);
 
             Console.WriteLine(result);
