@@ -13,6 +13,8 @@ namespace LeetCodeChallenges
             bool thereIsArray = false;
             int min = int.MaxValue;
 
+            LinkedListNode<int> 
+
             for (int i = 0; i < nums.Length; i++)
             {
                 int counter = 1;
