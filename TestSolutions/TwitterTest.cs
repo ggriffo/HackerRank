@@ -15,6 +15,16 @@ namespace TestSolutions
         }
 
         [Test]
+        public void RobotClashTest()
+        {
+            List<int> key = new List<int> { 5, 10, 20, 10, 15, 5 };
+            int maxChange = 2;
+            int result = RobotClash.findVulnerabilityFactor(key, maxChange);
+            Assert.AreEqual(2, result);
+            // result should be 2 (subarray [10, 20] or [20, 10] can be modified to have GCD > 1 with two changes)
+        }
+
+        [Test]
         public void TwitterTestCase0()
         {
             twitter.PostTweet(1, 5);
